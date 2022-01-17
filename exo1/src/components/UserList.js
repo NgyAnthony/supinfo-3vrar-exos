@@ -18,6 +18,10 @@ export function UserList({users, deleteUser, modifyUser}) {
     setIsModalVisible(true);
   };
 
+  const handleOk = () => {
+    setIsModalVisible(false);
+  };
+
   const handleCancel = () => {
     setIsModalVisible(false);
   };
@@ -52,6 +56,8 @@ export function UserList({users, deleteUser, modifyUser}) {
 
       <Modal title="Modifier"
              visible={isModalVisible}
+             onOk={handleOk}
+             onCancel={handleCancel}
              footer={[
                <Button key="back" onClick={handleCancel}>
                  Annuler
