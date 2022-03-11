@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome to Supinfo",
+    "description": "Supinfo is an IT school.",
+    "date": "2021-01-01",
+    "category": "School"
+  },
+  {
+    "id": 2,
+    "title": "Pour dissuader Poutine d’attaquer l’Ukraine, une doctrine de “riposte adaptée” est nécessaire",
+    "description": "Tribune. A la veille de son départ pour Moscou, Emmanuel Macron affirmait que « l’intensité du dialogue que nous avons eu avec la Russie » était de nature à « empêcher » une offensive contre l’Ukraine. On aimerait avoir les certitudes du président de la République. Personne ne peut prétendre savoir ce que veut Vladimir Poutine, et ce dernier n’a d’ailleurs peut-être pas encore décidé ce qu’il allait faire.",
+    "date": "2021-02-01",
+    "category": "International"
+  },
+  {
+    "id": 3,
+    "title": "Présidentielle : vers une alliance entre Christiane Taubira et Yannick Jadot ?\n",
+    "description": "Les équipes de Christiane Taubira et de Yannick Jadot se sont rencontrées dimanche soir à Romainville (Seine-Saint-Denis). Une réunion discrète où les conditions d'une alliance entre les deux candidats à l'élection présidentielle ont été évoquées, rapportent nos confrères du Monde. ",
+    "date": "2021-02-10",
+    "category": "Politique"
+  },
+  {
+    "id": 4,
+    "title": "LA FRANCE VA LEVER LES TESTS AUX FRONTIÈRES POUR LES VOYAGEURS VACCINÉS\n",
+    "description": "Quel que soit le pays d'origine, il ne sera bientôt plus nécessaire de présenter un test négatif à l'arrivée en France, à condition d'être complètement vacciné contre le Covid-19.\n",
+    "date": "2021-02-10",
+    "category": "Covid"
+  }
+]
